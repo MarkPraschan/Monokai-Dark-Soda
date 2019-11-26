@@ -1,16 +1,16 @@
 {
-  "title": "Monokai Dark Soda",
-  "name": "rain.monokai-dark-soda",
-  "description": "Dark theme based on Dark Soda and Monokai color schemes.",
-  "version": "1.0.9",
+  "title": "Monokai Dark Soda (MP)",
+  "name": "rain.monokai-dark-soda-mp",
+  "description": "Dark theme based on Dark Soda and Monokai color schemes. Customized by MarkPraschan",
+  "version": "1.0.0",
   "author": {
-  "name": "rain",
-  "url": "https://github.com/rainje"
+  "name": "MarkPraschan",
+  "url": "https://github.com/MarkPraschan"
   },
-  "homepage": "https://github.com/rainje/Monokai-Dark-Soda",
+  "homepage": "https://github.com/MarkPraschan/Monokai-Dark-Soda",
   "repository": {
         "type": "git",
-        "url": "https://github.com/rainje/Monokai-Dark-Soda.git"
+        "url": "https://github.com/MarkPraschan/Monokai-Dark-Soda.git"
     },
   "license": "MIT",
   "engines": {
