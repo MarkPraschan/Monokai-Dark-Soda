@@ -30,11 +30,11 @@
 
 .cm-property,
 .cm-variable-2 {
-	color: #66D9EF
+	color: #9F7AEA
 }
 
 .cm-comment {
-	color: #A0AEC0
+	color: #718096
 }
 
 .cm-def {
@@ -52,7 +52,7 @@
 
 .CodeMirror,
 .CodeMirror-scroll {
-	background: #1A202C;
+	background: #131720;
 	color: #F7FAFC
 }
 
@@ -67,7 +67,7 @@
 }
 
 .CodeMirror-linenumber {
-	color: #718096
+	color: #4A5568
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
