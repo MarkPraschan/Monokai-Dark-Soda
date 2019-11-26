@@ -119,8 +119,8 @@
 
 .CodeMirror-foldgutter-open:after {
 	content: "↑";
-	font-size: 1.32em;
-	color: #767676
+	font-size: 1em;
+	color: #718096
 }
 
 .CodeMirror-foldgutter-folded:after {
@@ -128,8 +128,8 @@
 	font-size: 1.3em;
 	font-weight: 700;
 	background: 0 0!important;
-	color: #48BB78!important;
-	text-shadow: 0 0 10px #48BB78
+	color: #1dff00!important;
+	text-shadow: 0 0 10px #1dff00
 }
 
 .CodeMirror-foldgutter-folded {
