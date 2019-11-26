@@ -25,7 +25,7 @@
 
 .cm-string,
 .cm-string-2 {
-	color: #E6DB74
+	color: #EDF2F7
 }
 
 .cm-property,
@@ -34,7 +34,7 @@
 }
 
 .cm-comment {
-	color: #8c8c8c
+	color: #A0AEC0
 }
 
 .cm-def {
@@ -52,12 +52,12 @@
 
 .CodeMirror,
 .CodeMirror-scroll {
-	background: #2D3748;
-	color: #F8F8F2
+	background: #1A202C;
+	color: #F7FAFC
 }
 
 .CodeMirror-gutters {
-	background: #2D3748
+	background: #1A202C
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt,
@@ -67,7 +67,7 @@
 }
 
 .CodeMirror-linenumber {
-	color: #767676
+	color: #718096
 }
 
 .CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
